@@ -6,11 +6,9 @@
 /*   By: hjeong <hjeong@student.42seoul.kr>         +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2021/11/26 14:40:21 by hjeong            #+#    #+#             */
-/*   Updated: 2022/01/15 12:06:40 by hjeong           ###   ########.fr       */
+/*   Updated: 2022/01/17 21:03:07 by hjeong           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
-
-#include "libft.h"
 
 int	ft_atoi(const char *str)
 {
