@@ -60,7 +60,7 @@ endif
 all : $(NAME)
 
 $(NAME) : $(OBJECTS)
-	ar -rc $@ $^
+	ar -rcs $@ $^
 
 bonus :
 	make WITH_BONUS=1 all
